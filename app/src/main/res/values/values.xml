@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Dari">
+        <item>Kediri</item>
+        <item>Malang</item>
+        <item>Surabaya</item>
+        <item>Madura</item>
+    </string-array>
+    <string-array name="Tujuan">
+        <item>Kediri</item>
+        <item>Malang</item>
+        <item>Surabaya</item>
+        <item>Madura</item>
+    </string-array>
+</resources>
